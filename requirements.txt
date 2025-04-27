@@ -1,0 +1,48 @@
+# Core LangChain
+langchain
+langchain-groq
+langchain_community
+
+# LLM Providers
+openai
+groq
+huggingface_hub
+
+# Embedding models
+sentence-transformers
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Document Loaders (PDFs, HTML, CSVs, etc.)
+unstructured
+bs4
+pdfminer.six
+python-docx
+pypdf
+lxml
+
+# Memory (for storing conversations)
+redis
+weaviate-client
+
+# Tools (search, APIs, calculations)
+serpapi
+requests
+wikipedia
+python-dotenv
+
+# Tokenizer
+tiktoken
+
+# Callbacks, Monitoring
+langchain-openai
+langsmith
+
+# Utilities
+numpy
+pandas
+
+# Optional for async calls
+aiohttp
